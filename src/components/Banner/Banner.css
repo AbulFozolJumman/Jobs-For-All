@@ -1,0 +1,40 @@
+#banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 50px auto;
+}
+#title{
+    font-weight: 800;
+    font-size: 60px;
+}
+#highlights{
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+#banner p{
+    margin: 25px 0;
+    font-weight: 500;
+    font-size: 18px;
+    color: #757575;
+}
+#banner img {
+    width: 50%;
+}
+
+@media screen and (max-width: 600px) {
+    #banner{
+        flex-direction: column;
+    }
+    #banner div{
+        padding: 0 25px;
+    }
+    #banner img {
+        width: 100%;
+        padding: 50px 0;
+    }
+}

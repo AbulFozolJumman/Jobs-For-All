@@ -1,0 +1,11 @@
+.blog{
+    border: 1px solid grey;
+    background-color: antiquewhite;
+    padding: 40px;
+    border-radius: 8px;
+    margin: 30px auto;
+    max-width: 800px;
+}
+.blog h2 {
+    margin-bottom: 20px;
+}

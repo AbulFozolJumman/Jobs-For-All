@@ -1,0 +1,15 @@
+#jobs{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+#see-all-btn{
+    display: block;
+    margin: 50px auto;
+}
+
+@media screen and (max-width: 600px) {
+    #jobs{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

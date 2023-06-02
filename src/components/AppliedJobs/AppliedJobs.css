@@ -1,0 +1,12 @@
+#applied-jobs{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+    max-width: 800px;
+    margin: 50px auto;
+    grid-gap: 40px;
+}
+#applied-jobs-title{
+    text-align: center;
+    font-size: 50px;
+}

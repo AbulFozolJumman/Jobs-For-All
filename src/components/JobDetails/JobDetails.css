@@ -1,0 +1,34 @@
+#job-details{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+#description{
+    margin: 50px;
+}
+span{
+    font-weight: 700;
+    color: black;
+}
+p{
+    color: #757575;
+    margin-bottom: 20px;
+}
+#contact{
+    padding: 50px 100px 50px 50px;
+    border: 1px solid #757575;
+    border-radius: 8px;
+    margin-right: 50px;
+    background-color: antiquewhite;
+}
+hr{
+    margin: 20px 50px 20px 0;
+}
+
+@media screen and (max-width: 600px) {
+    #job-details{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    #contact{
+        margin: 50px;
+    }
+}

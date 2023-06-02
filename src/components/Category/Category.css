@@ -1,0 +1,38 @@
+.title{
+    text-align: center;
+    margin-top: 100px;
+}
+.title h2{
+    font-weight: 800;
+    font-size: 48px;
+    margin-bottom: 16px;
+}
+.title p{
+    font-weight: 500;
+    color: #757575;
+    margin-bottom: 32px;
+}
+#categories{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 25px;
+}
+.category{
+    padding: 40px;
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    border-radius: 8px;
+    margin-bottom: 50px;
+}
+.category-title{
+    margin: 32px 0 8px;
+}
+
+@media screen and (max-width: 600px) {
+    #categories{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .category{
+        margin: 10px;
+    }
+}

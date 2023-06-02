@@ -1,0 +1,38 @@
+#job{
+    max-width: 400px;
+    max-height: 650px;
+    padding: 40px;
+    border: 1px solid #E8E8E8;
+    border-radius: 8px;
+}
+.logo {
+    margin-bottom: 32px;
+    height: 40px;
+    max-width: 150px;
+}
+#name{
+    color: #757575;
+    margin-top: 8px;
+}
+.btn-secondary{
+    padding: 9px 19px;
+    margin: 16px 10px 16px 0;
+    color: #9873FF;
+    border: 1px solid #9873FF;
+    background-color: white;
+}
+#location-salary{
+    display: flex;
+    gap: 24px;
+    margin: 16px 0 24px;
+    color: #757575;
+}
+#location, #salary{
+    display: flex;
+}
+
+@media screen and (max-width: 600px) {
+    #job{
+        margin: 0 auto;
+    }
+}

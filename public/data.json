@@ -1,0 +1,110 @@
+[  
+    {    
+        "logo": "https://i.ibb.co/9V8z0M9/google-1-1-1.png",   
+        "symbol": "GOOGL", 
+        "id": 123,
+        "jobType": "Onsite",
+        "designation": "Software Engineer",    
+        "companyName": "Google",    
+        "location": "Mountain View",    
+        "salary": "120k-150k",
+        "jobDescription": "We are looking for a talented software engineer to join our team and help develop our cutting-edge software products.",
+        "jobResponsibilities":
+        "Develop and maintain software application, Collaborate with cross-functional teams to identify and solve complex software problems, Write high-quality well-tested code, Participate in code reviews and contribute to team knowledge sharing, Stay up-to-date with emerging trends and technologies in software development",
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+        "experienceRequirements": "3+ years of experience in software development",
+        "phone": "+1 (650) 253-0000",
+        "email": "careers@google.com",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
+    },  
+    {    
+        "logo": "https://i.ibb.co/hyZZXzQ/tesla-9-1.png", 
+        "symbol": "TSLA", 
+        "id": 124,
+        "jobType": "Remote",  
+        "designation": "Electrical Engineer",    
+        "companyName": "Tesla",    
+        "location": "Palo Alto",    
+        "salary": "130k-170k", 
+        "jobDescription": "We are seeking an Electrical Engineer to join our dynamic team. In this role, you will be responsible for designing, testing and implementing electrical systems and components for Tesla products.",
+        "jobResponsibilities": 
+          "Design and implement electrical systems and components for Tesla products, Collaborate with cross-functional teams to ensure that design, manufacturing, and testing are aligned with engineering requirements, Develop and maintain engineering documentation, Participate in prototype and production testing, Stay up-to-date with emerging trends and technologies in electrical engineering",
+        "educationalRequirements": "Bachelor's degree in Electrical Engineering or related field",
+        "experienceRequirements": "5+ years of experience in electrical engineering",
+        "phone": "+1 (888) 518-3752",
+        "email": "careers@tesla.com",
+        "address": "45500 Fremont Blvd, Fremont, CA 94538" 
+    },
+    {    
+        "logo": "https://i.ibb.co/1L795gf/netflix-4-1.png",    
+        "symbol": "NFLX",
+        "id": 125,
+        "jobType": "Onsite",
+        "designation": "Data Scientist",    
+        "companyName": "Netflix",    
+        "location": "Los Gatos",    
+        "salary": "140k-180k", 
+        "jobDescription": "We are looking for an experienced Senior Software Engineer to join our team and help build the next generation of our streaming platform.",
+        "jobResponsibilities":
+          "Design and develop scalable, high-performance software solutions, Collaborate with cross-functional teams to deliver high-quality products, Write clean, maintainable code, Participate in code reviews and contribute to team knowledge sharing, Stay up-to-date with emerging trends and technologies in software development",
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+        "experienceRequirements": "7+ years of experience in software development",
+        "phone": "+1 (408) 540-3700",
+        "email": "careers@netflix.com",
+        "address": "100 Winchester Circle" 
+    },  
+    {    
+        "logo": "https://i.ibb.co/G9ZZBR6/Group-10021.png",  
+        "symbol": "ABNB",
+        "id": 126,  
+        "jobType": "Remote",
+        "designation": "Product Manager",    
+        "companyName": "Airbnb",    
+        "location": "Seattle",    
+        "salary": "150k-200k", 
+        "jobDescription": "We are looking for a skilled Product Manager to join our team and lead the development of new features and products that will delight our guests and hosts.",
+        "jobResponsibilities": 
+          "Lead product development from ideation to launch, Collaborate with cross-functional teams to define product strategy and roadmap, Gather and prioritize product requirements, Analyze data to inform product decisions, Stay up-to-date with emerging trends and technologies in product management",
+        "educationalRequirements": "Bachelor's degree in Computer Science, Business Administration or related field",
+        "experienceRequirements": "5+ years of experience in product management",
+        "phone": "+1 (855) 424-7262",
+        "email": "careers@airbnb.com",
+        "address": "888 Brannan St, San Francisco, CA 94103"
+    }, 
+    {
+      "companyName": "Microsoft",
+      "symbol": "MSFT",
+      "id": 127,
+      "jobType": "Onsite",
+      "designation": "Data Scientist",
+      "location": "Redmond, WA",
+      "salary": "150k-200k",
+      "logo": "https://i.ibb.co/C6N0RRL/download.png",
+      "jobDescription": "We are seeking a highly skilled Data Scientist to join our team and help us build innovative data-driven solutions.",
+      "jobResponsibilities": 
+        "Design and implement data models and algorithms, Analyze complex data sets to identify insights and opportunities, Develop and maintain data pipelines and workflows, Collaborate with cross-functional teams to deliver high-quality solutions, Stay up-to-date with emerging trends and technologies in data science",
+      "educationalRequirements": "Bachelor's or Master's degree in Computer Science, Mathematics, Statistics or related field",
+      "experienceRequirements": "3+ years of experience in data science",
+      "phone": "+1 (800) 642-7676",
+      "email": "careers@microsoft.com",
+      "address": "One Microsoft Way, Redmond, WA 98052"
+    },
+    {
+      "companyName": "Apple",
+      "symbol": "AAPL",
+      "id": 128,
+      "jobType": "Remote",
+      "designation": "UX Designer",
+      "location": "Cupertino, CA",
+      "salary": "150k-200k",
+      "logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202102160408",
+      "jobDescription": "We are looking for a talented UX Designer to join our team and help us create world-class user experiences for our products and services.",
+      "jobResponsibilities": 
+        "Design and prototype user interfaces and experiences, Collaborate with cross-functional teams to define design requirements and specifications, Conduct user research and testing to inform design decisions, Iterate on designs based on feedback and testing results, Stay up-to-date with emerging trends and technologies in UX design",
+      "educationalRequirements": "Bachelor's or Master's degree in Interaction Design, Graphic Design, Human-Computer Interaction or related field",
+      "experienceRequirements": "3+ years of experience in UX design",
+      "phone": "+1 (408) 996-1010",
+      "email": "careers@apple.com",
+      "address": "One Apple Way, New York, WA 98052"
+    }
+]
